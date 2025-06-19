@@ -2,6 +2,10 @@
 Nem transforme em ação ideias desmedidas.
 Sê afável, mas nunca vulgar."
 
+Lista de desenvolvedores no projeto
+
+ok sei lá 
+
 Nome: Davi Brito do Nascimento
 Email: davibrito.tech@gmail.com
 Usuário: git: @ntcdave
@@ -13,3 +17,4 @@ Usuário git: @cccop18
 Nome: Alonso Martins de Araújo
 Email: alonsomartins056@gmail.com
 Usuário git: AlonsoMCDG
+
