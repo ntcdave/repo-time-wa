@@ -1,3 +1,11 @@
 Nome: Davi Brito do Nascimento
 Email: davibrito.tech@gmail.com
 Usuário: git: @ntcdave
+
+Nome: Arthur Rangel
+Email: arthurhangel@gmail.com
+Usuário git: @cccop18
+
+Nome: Alonso Martins de Araújo
+Email: alonsomartins056@gmail.com
+Usuário git: AlonsoMCDG
